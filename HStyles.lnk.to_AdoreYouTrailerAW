@@ -1,0 +1,1149 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" href="https://30362208fb0010f60042-0290c4f6b2235c127de3238391f2b960.ssl.cf3.rackcdn.com/images/favicon/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://30362208fb0010f60042-0290c4f6b2235c127de3238391f2b960.ssl.cf3.rackcdn.com/images/favicon/favicon.png">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    
+    <title>Harry Styles adore you video trailer</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="description" content="Harry Styles adore you video trailer">
+
+<!-- FB OG tags -->
+
+<meta property="og:title" content="Harry Styles adore you video trailer">
+<meta property="og:description" content="Harry Styles adore you video trailer">
+
+        <meta property="og:url" content="https://HStyles.lnk.to/AdoreYouTrailer">
+    
+    <meta property="og:type" content="article">
+        <meta property="og:image" content="http://cdnlinks.linkfire.com/facebook_5de44695c2fc0_.jpg">
+    <meta property="og:image" content="http://cdnlinks.linkfire.com/5de44695c2fc0_.jpg">
+    <!-- additional media -->
+
+<!-- Twitter summary card meta tags -->
+<meta name="twitter:url" value="http://HStyles.lnk.to/AdoreYouTrailer">
+<meta name="twitter:title" content="Harry Styles adore you video trailer">
+<meta name="twitter:description" content="Harry Styles adore you video trailer">
+
+    <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="http://cdnlinks.linkfire.com/twitter_5de44695c2fc0_.jpg">
+        
+    <style>
+        body {
+            background: #eee;
+            color: #222;
+            font-family: "helvetica neue", "HelveticaNeue", "Helvetica", Arial, sans-serif;
+            -webkit-text-size-adjust: none;
+            text-align: center;
+            min-height: 100vh;
+        }
+
+        .link-to-webplayer {
+            display: block;
+            color: #222;
+            line-height: 1.5;
+            margin-top: 30px;
+            padding: 0 10px;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .link-to-webplayer span {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .link-to-webplayer img {
+          margin-top: 15px;
+        }
+    </style>
+
+    <script>
+                $(window).load(function() {
+            var uri = '';
+            var url = 'https://www.youtube.com/watch?v=QFyK9yYX24E&feature=youtu.be';
+            redirect(url, uri, false);
+
+                    });
+    </script>
+    <script>
+    // Upgrade for JSON.stringify, updated to allow arrays
+    (function(){
+        // Convert array to object
+        var convArrToObj = function(array){
+            var thisEleObj = new Object();
+            if(typeof array == "object"){
+                for(var i in array){
+                    var thisEle = convArrToObj(array[i]);
+                    thisEleObj[i] = thisEle;
+                }
+            }else {
+                thisEleObj = array;
+            }
+            return thisEleObj;
+        };
+        var oldJSONStringify = JSON.stringify;
+        JSON.stringify = function(input){
+            if(oldJSONStringify(input) == '[]')
+                return oldJSONStringify(convArrToObj(input));
+            else
+                return oldJSONStringify(input);
+        };
+    })();
+
+    function getCookies() {
+        return document.cookie.split(';').reduce(function(cookies, cookie) {
+            var cookieVal = cookie.split('=').map(function(c) {
+                return c.trim();
+            });
+            var name = cookieVal[0];
+            var value = cookieVal[1];
+            cookies[name] = value;
+            return cookies;
+        }, {});
+    }
+
+    function getCookie(name) {
+        var cookies = getCookies();
+        var cookieVal = name in cookies ? cookies[name] : '';
+        return decodeURIComponent(cookieVal);
+    }
+
+    function tryParseJSON(jsonString){
+        try {
+            var o = JSON.parse(jsonString);
+            if (o && typeof o === 'object') {
+                return o;
+            }
+        }
+        catch (e) {}
+        return {};
+    }
+
+    function tryParseJSON(jsonString){
+        try {
+            var o = JSON.parse(jsonString);
+            if (o && typeof o === 'object') {
+                return o;
+            }
+        }
+        catch (e) {}
+        return {};
+    }
+
+    function translateLevelFromString(levelAsString) {
+        switch (levelAsString.toLowerCase()) {
+            case 'notracking':
+                return 1;
+
+            case 'implied':
+                return 2;
+
+            case 'explicit':
+                return 3;
+
+            default:
+                return 0;
+        }
+    }
+
+    function _getConsentMinLevel() {
+        return 'Implied';
+    }
+
+    function _getConsentLevel() {
+        return getCookie('LF_level');
+    }
+
+    function _isConsentedToLevel() {
+        var minLevelAsNumber = translateLevelFromString(_getConsentMinLevel());
+        var levelAsNumber = translateLevelFromString(_getConsentLevel());
+        return minLevelAsNumber <= levelAsNumber;
+    }
+
+    function _getPerformancePreferences() {
+        var performancePrefStr = getCookie('LF_performance');
+        return tryParseJSON(performancePrefStr);
+    }
+
+    function _getAdvertiserPreferences() {
+        var performancePrefStr = getCookie('LF_advertiser');
+        return tryParseJSON(performancePrefStr);
+    }
+
+    window.linkfire = {
+        requiredCookies : ['Linkfire'],
+        retargetingPixels: {"facebook":{"tags":{"artists":["Harry Styles"],"tags":["Harrystyles","Adoreyou","Teaser"],"organisation":"Columbia Records US","board":"Columbia Records US","url":"HStyles.lnk.to\/AdoreYouTrailer","action":"pageview","countryCode":"US","country":"United States","city":"St Louis","activity":null,"oid":"320","tlo":"35","bid":3595,"linkId":794335,"furl":"HStyles.lnk.to\/AdoreYouTrailerAW","domain":"HStyles.lnk.to","subdomain":"HStyles","luuid":"87316595-4b3b-49e5-ab1c-dbe91d45f304","ouuid":"6ef8d584-4c47-11e6-9fd0-066c3e7a8751","puuid":"c5af5c00-4013-4675-945f-f41c55b4f415","tlouuid":"6ee94b8a-4c47-11e6-9fd0-066c3e7a8751","buuid":"8fd15a80-4c47-11e6-9fd0-066c3e7a8751","sid":"b23b148c307755e6abd269e175688f8f","uid":"5de53639741c98.61520258","channel":"Artist Website","channelCode":"AW","referrer":"direct","timestamp":"02:12:2019"},"ids":["399736106876066","1447330645497320","977700965768537","2292497377744697"],"pixels":["https:\/\/www.facebook.com\/tr?id=399736106876066&ev=LF&cd[artists]=Harry+Styles&cd[tags]=Harrystyles%2CAdoreyou%2CTeaser&cd[organisation]=Columbia+Records+US&cd[board]=Columbia+Records+US&cd[url]=HStyles.lnk.to%2FAdoreYouTrailer&cd[action]=pageview&cd[oid]=320&cd[tlo]=35&cd[bid]=3595&cd[linkId]=794335&cd[furl]=HStyles.lnk.to%2FAdoreYouTrailerAW&cd[domain]=HStyles.lnk.to&cd[subdomain]=HStyles&cd[luuid]=87316595-4b3b-49e5-ab1c-dbe91d45f304&cd[ouuid]=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&cd[sid]=b23b148c307755e6abd269e175688f8f&cd[uid]=5de53639741c98.61520258&cd[channel]=Artist+Website&cd[channelCode]=AW&cd[referrer]=direct&cd[activity]=&cd[timestamp]=02%3A12%3A2019","https:\/\/www.facebook.com\/tr?id=1447330645497320&ev=LF&cd[artists]=Harry+Styles&cd[tags]=Harrystyles%2CAdoreyou%2CTeaser&cd[organisation]=Columbia+Records+US&cd[board]=Columbia+Records+US&cd[url]=HStyles.lnk.to%2FAdoreYouTrailer&cd[action]=pageview&cd[oid]=320&cd[tlo]=35&cd[bid]=3595&cd[linkId]=794335&cd[furl]=HStyles.lnk.to%2FAdoreYouTrailerAW&cd[domain]=HStyles.lnk.to&cd[subdomain]=HStyles&cd[luuid]=87316595-4b3b-49e5-ab1c-dbe91d45f304&cd[ouuid]=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&cd[sid]=b23b148c307755e6abd269e175688f8f&cd[uid]=5de53639741c98.61520258&cd[channel]=Artist+Website&cd[channelCode]=AW&cd[referrer]=direct&cd[activity]=&cd[timestamp]=02%3A12%3A2019","https:\/\/www.facebook.com\/tr?id=977700965768537&ev=LF&cd[artists]=Harry+Styles&cd[tags]=Harrystyles%2CAdoreyou%2CTeaser&cd[organisation]=Columbia+Records+US&cd[board]=Columbia+Records+US&cd[url]=HStyles.lnk.to%2FAdoreYouTrailer&cd[action]=pageview&cd[oid]=320&cd[tlo]=35&cd[bid]=3595&cd[linkId]=794335&cd[furl]=HStyles.lnk.to%2FAdoreYouTrailerAW&cd[domain]=HStyles.lnk.to&cd[subdomain]=HStyles&cd[luuid]=87316595-4b3b-49e5-ab1c-dbe91d45f304&cd[ouuid]=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&cd[sid]=b23b148c307755e6abd269e175688f8f&cd[uid]=5de53639741c98.61520258&cd[channel]=Artist+Website&cd[channelCode]=AW&cd[referrer]=direct&cd[activity]=&cd[timestamp]=02%3A12%3A2019","https:\/\/www.facebook.com\/tr?id=2292497377744697&ev=LF&cd[artists]=Harry+Styles&cd[tags]=Harrystyles%2CAdoreyou%2CTeaser&cd[organisation]=Columbia+Records+US&cd[board]=Columbia+Records+US&cd[url]=HStyles.lnk.to%2FAdoreYouTrailer&cd[action]=pageview&cd[oid]=320&cd[tlo]=35&cd[bid]=3595&cd[linkId]=794335&cd[furl]=HStyles.lnk.to%2FAdoreYouTrailerAW&cd[domain]=HStyles.lnk.to&cd[subdomain]=HStyles&cd[luuid]=87316595-4b3b-49e5-ab1c-dbe91d45f304&cd[ouuid]=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&cd[puuid]=c5af5c00-4013-4675-945f-f41c55b4f415&cd[tlouuid]=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&cd[buuid]=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&cd[sid]=b23b148c307755e6abd269e175688f8f&cd[uid]=5de53639741c98.61520258&cd[channel]=Artist+Website&cd[channelCode]=AW&cd[referrer]=direct&cd[activity]=&cd[timestamp]=02%3A12%3A2019"]},"google":{"tags":{"artists":["Harry Styles"],"tags":["Harrystyles","Adoreyou","Teaser"],"organisation":"Columbia Records US","board":"Columbia Records US","url":"HStyles.lnk.to\/AdoreYouTrailer","action":"pageview","countryCode":"US","country":"United States","city":"St Louis","activity":null,"referrer":"direct"},"ids":["950249395"],"gaData":[{"id":950249395,"label":null}],"pixels":["\/\/googleads.g.doubleclick.net\/pagead\/viewthroughconversion\/950249395\/?value=0&amp;guid=ON&amp;script=0&amp;data=artists%3DHarry+Styles;tags%3DHarrystyles%2CAdoreyou%2CTeaser;organisation%3DColumbia+Records+USboard%3DColumbia+Records+USurl%3DHStyles.lnk.to%2FAdoreYouTrailer&referrer=direct"]},"twitter":{"pageview":["numgi"],"service":["numuc"],"player":["numub"]},"snap":{"ids":["af0f7b9c-4a8f-49a3-a1b8-4c9fab88e3fc"]},"googleglobal":{"tags":{"artists":["Harry Styles"],"tags":["Harrystyles","Adoreyou","Teaser"],"organisation":"Columbia Records US","board":"Columbia Records US","url":"HStyles.lnk.to\/AdoreYouTrailer","action":"pageview","countryCode":"US","country":"United States","city":"St Louis","activity":null},"ids":[{"id":"AW-757474210","label":"\/d-MECKTpo6cBEKLHmOkC"},{"id":"AW-757474210","label":"\/rfK4CMjpo6cBEKLHmOkC"},{"id":"AW-716855806","label":null}]},"twitteruniversal":{"ids":["o2jwo"]}},
+        trackingPixels: {"google":[{"value":"UA-54175133-1","iso_code":"all","dimensions":[],"events":["direct","landingVisit","assetInteraction","serviceClick","shareFromAsset","timeOnAsset"]}],"linkfire":["_LF"]},
+        consent: {
+            minLevel: _getConsentMinLevel(),
+            level: _getConsentLevel(), // dynamic property (changes client side)
+            isConsentedToLevel: _isConsentedToLevel(), // dynamic property (changes client side)
+            domain: 'lnk.to',
+            required: false,
+            performance: _getPerformancePreferences(), // dynamic property (changes client side)
+            advertiser: _getAdvertiserPreferences(), // dynamic property (changes client side)
+            dialogType: 'Bar',
+            tracking: {
+                optin: 'https://st.linkfire.com/consent/optin/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+                optout: 'https://st.linkfire.com/consent/optout/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+                advanced: 'https://st.linkfire.com/consent/advanced/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+                dismiss: 'https://st.linkfire.com/consent/dismiss/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+                openPref: 'https://st.linkfire.com/consent/opened_preferences/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+                closePref: 'https://st.linkfire.com/consent/closed_preferences/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+                dialogView: 'https://st.linkfire.com/consent/dialog_view/5de53639741c98.61520258?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US',
+            }
+        },
+        events: {
+            performance: [],
+            advertiser: [],
+        },
+        settings: {
+            LF_main: 'eyJVSUQiOiI1ZGU1MzYzOTc0MWM5OC42MTUyMDI1OCJ9',
+            LF_visitor_1e65c25fe0aac4ea5307e39617cfe120: 'b23b148c307755e6abd269e175688f8f',
+            LF_session_437b7d8abed08087fd23bab9ef749272: 1,
+        },
+        controller: {"id":"6ee94b8a-4c47-11e6-9fd0-066c3e7a8751","name":"Sony Music","legalName":"Sony Music","privacyUrl":"https:\/\/www.sonymusic.com\/privacy-policy\/","image":"https:\/\/services.linkfire.com\/organisations\/logo_6ee94b8a-4c47-11e6-9fd0-066c3e7a8751.svg"},
+        coController: null,
+        hasCoController: false,
+        processor: {"id":"c4063359-ab2a-471c-9c3d-158ecada375f","name":"Linkfire","legalName":"Linkfire ApS","privacyUrl":"https:\/\/linkfire.com\/privacy","image":"https:\/\/services.linkfire.com\/organisations\/logo_c4063359-ab2a-471c-9c3d-158ecada375f.svg"},
+        controllerIsProcessor: false,
+        uid: '5de53639741c98.61520258',
+        player: null,
+        appClickPlayer: null,
+        url: 'hstyles.lnk.to',
+        type: '2',
+        tags: 'Harrystyles,Adoreyou,Teaser',
+        trackingDimensions: {"artistName":["Harry Styles"],"albumName":"","trackName":"","upcCode":"","isrcCode":"","linkfireUrl":"HStyles.lnk.to\/AdoreYouTrailer","channel":"AW","tags":["Harrystyles","Adoreyou","Teaser"],"genre":[],"boardId":3595,"boardName":"Columbia Records US","linkId":794335,"organisationId":"320","organisationName":"Columbia Records US","uid":"5de53639741c98.61520258","activity":"","visitorToken":"b23b148c307755e6abd269e175688f8f","source":"linkfire"}    };
+
+    function levelIsImpliedConsent() {
+        return window.linkfire.consent.minLevel.toLowerCase() === 'implied';
+    }
+
+    function loadAlreadyConsented() {
+        Object.keys(window.linkfire.trackingPixels).forEach(function(key) {
+            if (checkConsent('performance', key)) {
+                loadScript('performance', key);
+            }
+        });
+        Object.keys(window.linkfire.retargetingPixels).forEach(function(key) {
+            if (checkConsent('advertiser', key)) {
+                loadScript('advertiser', key);
+            }
+        });
+    }
+
+        function checkConsent(area, provider) {
+        switch (area) {
+            case 'performance':
+                                if (Object.keys(window.linkfire.consent.performance).length === 0) {
+                                        if (levelIsImpliedConsent()) {
+                        return true;
+                    }
+                                } else {
+                                        if (provider in window.linkfire.consent.performance) {
+                        return window.linkfire.consent.performance[provider];
+                    } else {
+                                                if (levelIsImpliedConsent()) {
+                            return window.linkfire.consent.performance[Object.keys(window.linkfire.consent.performance)[0]];
+                        }
+                    }
+                }
+                break;
+            case 'advertiser':
+                                if (Object.keys(window.linkfire.consent.advertiser).length === 0) {
+                    // If user has not opted in or out, and consent is implied,
+                    // then fire pixels
+                    if (levelIsImpliedConsent()) {
+                        return true;
+                    }
+                } else {
+                    if (provider in window.linkfire.consent.advertiser) {
+                        // Check consent for nested providers
+                        if (
+                            window.linkfire.consent.advertiser[provider] === true &&
+                            provider in window.linkfire.retargetingPixels &&
+                            window.linkfire.retargetingPixels[provider].nestedProviders
+                        ) {
+                            var allNestedConsented = true;
+
+                            for (var nestedProvider of window.linkfire.retargetingPixels[provider].nestedProviders) {
+                                // Avoid infinite loop if two providers nest one another
+                                if (nestedProvider === provider) {
+                                    continue;
+                                }
+
+                                if (!checkConsent('advertiser', nestedProvider)) {
+                                    allNestedConsented = false;
+                                    break;
+                                }
+                            };
+
+                            return allNestedConsented;
+                        } else {
+                            return Boolean(window.linkfire.consent.advertiser[provider]);
+                        }
+                    } else {
+                        // If user has opted in or out, and consent is implied,
+                        // then check the first provider, for whether it's opt in or out,
+                        // as all will be the same (the consent banner doesn't support granular consent)
+                        if (levelIsImpliedConsent()) {
+                            return window.linkfire.consent.advertiser[Object.keys(window.linkfire.consent.advertiser)[0]];
+                        }
+                    }
+                }
+                break;
+        }
+
+        return false;
+    }
+
+    function checkScriptLoaded(area, provider) {
+        switch (area) {
+            case 'performance':
+                if (typeof window.linkfire.trackingPixels !== 'undefined') {
+                    if (provider in window.linkfire.trackingPixels && window.linkfire.trackingPixels[provider].isLoaded == true)Â {
+                        return true;
+                    }
+                }
+                break;
+            case 'advertiser':
+                if (typeof window.linkfire.retargetingPixels !== 'undefined') {
+                    if (provider in window.linkfire.retargetingPixels && window.linkfire.retargetingPixels[provider].isLoaded == true)Â {
+                        return true;
+                    }
+                }
+                break;
+        }
+        return false;
+    }
+
+    function setScriptLoaded(area, provider) {
+        switch (area) {
+            case 'performance':
+                window.linkfire.trackingPixels[provider].isLoaded = true;
+                break;
+            case 'advertiser':
+                window.linkfire.retargetingPixels[provider].isLoaded = true;
+                break;
+        }
+    }
+
+    function loadScript(area, provider) {
+        try {
+            if (!checkScriptLoaded(area, provider)) {
+                switch (area) {
+                    case 'performance':
+                        if (typeof window.linkfire.trackingPixels !== 'undefined') {
+                            if (provider in window.linkfire.trackingPixels && typeof window.linkfire.trackingPixels[provider].loader === 'function' && !window.linkfire.trackingPixels[provider].isLoaded)Â {
+                                window.linkfire.trackingPixels[provider].loader();
+                            }
+                        }
+                        break;
+                    case 'advertiser':
+                        if (typeof window.linkfire.retargetingPixels !== 'undefined') {
+                            if (provider in window.linkfire.retargetingPixels && typeof window.linkfire.retargetingPixels[provider].loader === 'function' && !window.linkfire.retargetingPixels[provider].isLoaded)Â {
+                                window.linkfire.retargetingPixels[provider].loader();
+                            }
+                        }
+                        break;
+                }
+                setScriptLoaded(area, provider);
+            } else {
+    //            console.log(area + ':' + provider + ' already loaded');
+            }
+        } catch (err) {
+        }
+    }
+
+   /**
+    * Set cookie
+    * @param {String} name (required)
+    * @param {String} value (required)
+    * @param {Date} expires
+    * @param {String} path
+    * @param {String} domain
+    * @param {Boolean} secure
+    */
+    function setCookieExBase(name, value, expires, path, domain, secure) {
+        value = escape(value);
+        var theCookie = name + '=' + value +
+        ((expires) ? '; expires=' + expires.toUTCString() : '') +
+        ((path) ? '; path=' + path : '') +
+                // Domain won't be added on IE
+        ((domain) ? '; domain=' + domain : '') +
+                ((secure) ? '; secure' : '');
+        document.cookie = theCookie;
+    }
+
+    function setcookieEx(cname, cvalue, days) {
+        var d = new Date((new Date()).getTime() + (days * 1000 * 60 * 60 * 24)); // days added as ms
+        setCookieExBase(cname, cvalue, d, '/', window.linkfire.consent.domain);
+    }
+
+    function setcookieExM(cname, cvalue, minutes) {
+        var d = new Date((new Date()).getTime() + (minutes * 1000 * 60)); // minutes added as ms
+        setCookieExBase(cname, cvalue, d, '/', window.linkfire.consent.domain);
+    }
+
+    function setLFCookies() {
+        // Set linkfire VT & UID cookies
+        Object.keys(window.linkfire.settings).forEach(function(key) {
+            if (key.indexOf('LF_visitor') !== -1 || key.indexOf('LF_session') !== -1) {
+                setcookieExM(key, window.linkfire.settings[key], 10);
+            } else {
+                setcookieEx(key, window.linkfire.settings[key], 180);
+            }
+        });
+    }
+
+    if (window.linkfire.trackingPixels.linkfire != undefined) {
+        window.linkfire.trackingPixels.linkfire.loader = function() {
+            setLFCookies();
+        }
+    }
+
+    function addTrackingImage(imageUrl) {
+        // Add image to tracking container
+        $('#trackingcontainer').append($('<img>', {
+            src : imageUrl,
+            width : 1,
+            height : 1,
+        }));
+    }
+    function addTrackingIframe(iframeUrl) {
+        // Add image to tracking container
+        $('#trackingcontainer').append($('<iframe>', {
+            src : iframeUrl,
+            width : 1,
+            height : 1,
+        }));
+    }
+    function addTrackingScript(scriptSrc) {
+        // Add image to tracking container
+        $('#trackingcontainer').append($('<script>', {
+            src : scriptSrc,
+            width : 1,
+            height : 1,
+        }));
+    }
+
+    function trackConsent(baseUrl) {
+        var trackingUrl = baseUrl;
+        trackingUrl += '&consentLevel=' + window.linkfire.consent.level;
+        trackingUrl += '&consentDialogType=' + window.linkfire.consent.dialogType;
+        trackingUrl += '&consentPerformance=' + encodeURI(JSON.stringify(window.linkfire.consent.performance));
+        trackingUrl += '&consentAdvertiser=' + encodeURI(JSON.stringify(window.linkfire.consent.advertiser));
+
+        addTrackingImage(trackingUrl);
+    }
+</script>
+</head>
+<body>
+
+
+    
+
+<iframe id="detectURI" src="" style="display:none"></iframe>
+
+  <script type="text/javascript">
+    // Avoid namespace polution
+    var linkfireDeeplink = {
+      clicked: false,
+      iframeTarget: document.getElementById('detectURI'),
+      isDesktop: false,
+      services: document.getElementsByClassName('redirect'),
+      visited: 0
+    };
+
+    // Attach event listeners to all anchors
+    for (var i = 0; i < linkfireDeeplink.services.length; i++) {
+      linkfireDeeplink.services[i].addEventListener('click', redirectHandler, false);
+    }
+
+    function redirectHandler(e) {
+      e.preventDefault();
+      if(linkfireDeeplink.clicked) return false;
+
+      // set user has clicked a service
+      linkfireDeeplink.clicked = true;
+      // Reset after 3sec
+      setTimeout(function() {
+          linkfireDeeplink.clicked = false;
+      },3000);
+      linkfireDeeplink.visited = 0;
+
+      if(e.target.hasAttribute('href')){
+        var link = e.target;
+      }else{
+        var link = this;
+      }
+
+      var uri = link.getAttribute('data-uri');
+
+            var url = link.getAttribute('href');
+      var player = link.getAttribute('data-player');
+      var appType = link.getAttribute('data-apptype');
+      var serviceType = link.getAttribute('data-serviceType');
+      var eventShowId = link.hasAttribute('data-showid') ? link.getAttribute('data-showid') : null;
+      var eventlabel = 'unknown';
+      if(link.children[1]){
+        eventlabel = link.children[1].textContent;
+      }
+
+      if(!appType || appType.length == 0){
+          appType = 'manual';
+      }
+      if(!serviceType || serviceType.length == 0){
+          serviceType = 'goto';
+      }
+      // Only set preferred service if not ticket link
+      if (!eventShowId) {
+        setCookie('LF_prefPlayer', player, 90);
+      }
+      
+		var trackingUrl = "https://st.linkfire.com/Api/Click/app/b23b148c307755e6abd269e175688f8f/794335?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US&visitorToken=b23b148c307755e6abd269e175688f8f&boardId=3595&uid=5de53639741c98.61520258&shortlink=HStyles.lnk.to%2FAdoreYouTrailer&referrer=direct&linkChannel=5031&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFyK9yYX24E%26feature%3Dyoutu.be&artists=Harry+Styles&tags=Harrystyles%3BAdoreyou%3BTeaser&orgId=320&browser=Unknown&device=unknown&os=unknown&querystring=&city=St+Louis&activity=&channelType=Owned&channelId=d3e10184-4c47-11e6-9fd0-066c3e7a8751&organisation=Columbia+Records+US&artist=&album=&track=&label=&board=Columbia+Records+US&genre=&countryName=United+States&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&sourcetype=landingpage&linkId=794335&channel=" + player + "&apptype=" + appType + "&eventCategoryType=" + serviceType;
+		if (eventShowId != null) {
+			trackingUrl += "&eventShowId=" + eventShowId;
+		}
+		$('#trackingcontainer').append($('<img>', {
+                    src : trackingUrl,
+                    width : 1,
+                    height : 1,
+                }));
+      if(typeof(trackEvent) == 'function'){
+        try {
+            trackEvent('service', 'click', player);
+        } catch (err) {
+            console.error(err);
+        }
+      }
+
+      if (typeof(fireEvent) == 'function') {
+        try {
+            fireEvent('serviceClick', 'Landing page', 'Service click', player);
+        } catch (err) {
+            console.error(err);
+        }
+      }
+
+      if(typeof(triggerPixels) == 'function'){
+        try {
+            triggerPixels(player, eventlabel, eventShowId, url, serviceType);
+        } catch (err) {
+            console.error(err);
+        }
+      }
+      var open = false;
+      if(link.hasAttribute('target')) {
+        open = true;
+      }
+
+      redirect(url, uri, open);
+    }
+
+    function redirect(url, uri, open){
+        // If URI is not set or if isDesktop == true, then open URL in new window
+        if(!uri || uri.length === 0 || linkfireDeeplink.isDesktop) {
+            if(open) {
+                window.open(url, '_blank');
+                return false;
+            }
+        }
+        var userPrompted = false;
+        // Give trigger pixels a chance to load
+
+            // if no URI and coming from tablet or phone OR desktop has no target="_blank", then redirect in same window
+            if(!uri || uri.length === 0) {
+              setTimeout(function() {
+                window.top.location.href = url;
+              }, 300);
+
+              return false;
+            }
+
+                        // Set iframe URI (prompt user with "open application" dialog)
+            linkfireDeeplink.iframeTarget.src = uri;
+
+
+            // Check when window is not in focus (prompt is created)
+            window.onblur = function() {
+                userPrompted = true;
+            };
+
+            window.onfocus = function() {
+                linkfireDeeplink.clicked = false;
+                if(linkfireDeeplink.visited === 0) {
+                    window.top.location.href = url;
+                }
+                linkfireDeeplink.visited++;
+            };
+
+            // If window hasn't been out of focus, then no prompt was made, and we sent user to URL
+            setTimeout(function() {
+                if(userPrompted == false) {
+                    window.top.location.href = url;
+                }
+            }, 300);
+                }
+
+    function setCookie(cname,cvalue,exdays) {
+      var d = new Date();
+      d.setTime(d.getTime() + (exdays*24*60*60*1000));
+      var expires = "expires=" + d.toGMTString();
+      document.cookie = cname+"="+cvalue+"; "+expires + "; path=/; domain=" + document.location.hostname + ";";
+    }
+  </script>
+
+
+<script>
+      var linkfireTrackingEvents = {
+        direct: [],
+        landingVisit: [],
+        assetInteraction: [],
+        serviceClick: [],
+        shareFromAsset: [],
+        timeOnAsset: []
+      };
+
+      /**
+       * The fireEvent function works as a controller, making sure that the various provider events are being fired based on user settings
+       * @param String eventType
+       * @param String category
+       * @param String action
+       * @param String label
+       * @param Integer value
+       * @author Anders Pedersen <ap@linkfire.com>
+       */
+      function fireEvent(eventType, category, action, label, value) {
+        if (checkConsent('performance', 'google')) {
+          var events = linkfireTrackingEvents[eventType];
+          for (var key in events) {
+            if (!events.hasOwnProperty(key)) continue;
+            var trackerInstance = events[key].tracker;
+
+            switch (events[key].provider + '|' + eventType) {
+              case 'google|direct':
+                gaEvent(trackerInstance, category, action, label, value);
+                break;
+              case 'google|landingVisit':
+                gaEvent(trackerInstance, category, action, label, value);
+                window.trackingEvent["pageView"] = true;
+                break;
+              case 'google|assetInteraction':
+                gaEvent(trackerInstance, category, action, label, value);
+                break;
+              case 'google|serviceClick':
+                gaEvent(trackerInstance, category, action, label, value);
+                if (events[key].trackInteraction) gaEvent(trackerInstance, category, 'Interaction', 'Clicked on '+label, value);
+                break;
+              case 'google|shareFromAsset':
+                gaEvent(trackerInstance, category, action, label, value);
+                if (events[key].trackInteraction) gaEvent(trackerInstance, category, 'Interaction', 'Shared on '+label, value);
+                break;
+              case 'google|timeOnAsset':
+                gaEvent(trackerInstance, category, action, label, value);
+                break;
+              default:
+                break;
+            }
+          }
+        }
+      }
+
+      /**
+       * The gaEvent function sends an event to Google Analytics
+       * @param String trackerInstance
+       * @param String category
+       * @param String action
+       * @param String label
+       * @param Integer value
+       * @author Anders Pedersen <ap@linkfire.com>
+       */
+      function gaEvent(trackerInstance, category, action, label, value) {
+        if (!window.ga && !ga.create) {
+          // Do something in case Google Analytics hasn't loaded e.g. fallback storage source
+          return;
+        }
+
+        ga(trackerInstance+'.send', 'event', category, action, label, value);
+      }
+
+      window.linkfire.trackingPixels['google'].loader = function() {
+        if (!checkScriptLoaded('performance','google')) {
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          if ("google" in window.linkfire.trackingPixels) {
+            counter = 0;
+            window.linkfire.trackingPixels.google.forEach(function(googleCode) {
+              if (googleCode != undefined && 'value' in googleCode) {
+                if (googleCode.value == "UA-54175133-1") {
+                  ga('create', googleCode.value, 'auto', {'name': 'tracker' + counter, 'cookieExpires': 63072000, 'clientId': window.linkfire.uid, 'sampleRate': 10});
+                  ga('tracker' + counter + '.set', 'dimension1', window.linkfire.url);
+                  ga('tracker' + counter + '.set', 'dimension2', window.linkfire.type);
+                  ga('tracker' + counter + '.set', 'dimension3', window.linkfire.tags);
+                } else {
+                  ga('create', googleCode.value, 'auto', {'name': 'tracker' + counter, 'cookieExpires': 63072000, 'clientId': window.linkfire.uid});
+                }
+              }
+              // Map custom dimensions
+              if (typeof(googleCode.dimensions) !== 'undefined') {
+                Object.keys(googleCode.dimensions).forEach(function (name) {
+                  // Check if object has property with name and the name is a valid tracking dimension
+                  if (typeof(googleCode.dimensions[name]) === 'undefined' ||Â typeof(window.linkfire.trackingDimensions[name]) === 'undefined') {
+                    return;
+                  }
+                  var index = googleCode.dimensions[name];
+                  // Check if dimension name is a valid field
+                  var value = window.linkfire.trackingDimensions[name];
+                  // Flatten value of array
+                  if (Array.isArray(value)) {
+                    value = value.toString();
+                  }
+                  ga('tracker' + counter + '.set', 'dimension' + index, value);
+                });
+              }
+
+              ga('tracker' + counter + '.send', 'pageview');
+              if ('events' in googleCode && googleCode.events != undefined) {
+                googleCode.events.forEach(function(event) {
+                  if (event in linkfireTrackingEvents) {
+                    linkfireTrackingEvents[event].push({tracker: 'tracker' + counter, provider: 'google', trackInteraction: Boolean('assetInteraction' in googleCode.events)})
+                  }
+                });
+              }
+              counter++;
+            });
+          }
+        }
+      }
+/**
+ * @deprecated This is deprecated as of next version
+ */
+//Ga event tracking
+function trackEvent(category, label, param){
+  if (checkConsent('performance', 'google')) {
+  	ga('linkfire.send', 'event', category, label, param);
+  }
+}
+
+//lf player tracking
+var trackedPlay = false;
+function trackPlay(){
+    if(trackedPlay){
+        return;
+    }
+    trackedPlay = true;
+    $('#trackingcontainer').append($('<img>', {
+                    src : "https://st.linkfire.com/Api/Click/app/b23b148c307755e6abd269e175688f8f/794335?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US&visitorToken=b23b148c307755e6abd269e175688f8f&boardId=3595&uid=5de53639741c98.61520258&shortlink=HStyles.lnk.to%2FAdoreYouTrailer&referrer=direct&linkChannel=5031&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFyK9yYX24E%26feature%3Dyoutu.be&artists=Harry+Styles&tags=Harrystyles%3BAdoreyou%3BTeaser&orgId=320&browser=Unknown&device=unknown&os=unknown&querystring=&city=St+Louis&activity=&channelType=Owned&channelId=d3e10184-4c47-11e6-9fd0-066c3e7a8751&organisation=Columbia+Records+US&artist=&album=&track=&label=&board=Columbia+Records+US&genre=&countryName=United+States&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&sourcetype=landingpage&linkId=794335&channel=linkfireplayer&apptype=lfplayer",
+                    width : 1,
+                    height : 1,
+                }));    if(typeof(trackEvent) == 'function'){
+        trackEvent('musicplayer', 'play');
+    }
+    if(typeof(fireEvent) == 'function'){
+        fireEvent('assetInteraction', 'Landing page', 'Interaction', 'Started music player');
+    }
+    if(typeof(triggerPixels) == 'function'){
+        triggerPixels('player');
+    }
+}
+
+function trackingAfterConsent() {
+  if (!("pageView" in window.consent.performanceEvents)) {
+    // Fire an event for landing page visits (fireEvent function will handle if it should actually be sent)
+    fireEvent('landingVisit', 'Landing page', 'Visit', 'Visited landing page');
+  }
+}
+
+// Fire an event for landing page visits (fireEvent function will handle if it should actually be sent)
+fireEvent('landingVisit', 'Landing page', 'Visit', 'Visited landing page');
+
+// Fire an event if user has been on page for 5 seconds
+setTimeout(function() {
+  fireEvent('timeOnAsset', 'Landing page', 'Time spent', '5 seconds spent', 5);
+}, 5000);
+
+</script>    
+<script>
+var tracked = false;
+var session = (document.cookie.indexOf("LF_session_437b7d8abed08087fd23bab9ef749272=0") !== -1 ? 'True' : 'False');
+function handleVisibilityChange(){
+    if(document.visibilityState == "visible" && !tracked){
+        $('#trackingcontainer').append($('<img>', {
+                    src : "https://st.linkfire.com/Api/Click/click/b23b148c307755e6abd269e175688f8f/794335?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US&visitorToken=b23b148c307755e6abd269e175688f8f&boardId=3595&uid=5de53639741c98.61520258&shortlink=HStyles.lnk.to%2FAdoreYouTrailer&referrer=direct&linkChannel=5031&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFyK9yYX24E%26feature%3Dyoutu.be&artists=Harry+Styles&tags=Harrystyles%3BAdoreyou%3BTeaser&orgId=320&browser=Unknown&device=unknown&os=unknown&querystring=&city=St+Louis&activity=&channelType=Owned&channelId=d3e10184-4c47-11e6-9fd0-066c3e7a8751&organisation=Columbia+Records+US&artist=&album=&track=&label=&board=Columbia+Records+US&genre=&countryName=United+States&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&sourcetype=landingpage&linkId=794335&sourcetype=landingpage&newSession=" + session + "",
+                    width : 1,
+                    height : 1,
+                }));                var d = new Date();
+        d.setTime(d.getTime() + 600000);
+        var expires = "expires=" + d.toGMTString();
+        document.cookie = "LF_session_437b7d8abed08087fd23bab9ef749272=1; "+expires + "; path=/; domain=" + window.linkfire.consent.domain + ";";
+        tracked = true;
+    }
+}
+
+if (typeof document.addEventListener === "undefined" || typeof document.visibilityState === "undefined") {
+  document.visibilityState = 'visible';
+} else {
+  document.addEventListener("visibilitychange", handleVisibilityChange, false);
+}
+handleVisibilityChange();
+
+</script>
+<noscript>
+<img src="https://st.linkfire.com/Api/Click/click/b23b148c307755e6abd269e175688f8f/794335?boardUuid=8fd15a80-4c47-11e6-9fd0-066c3e7a8751&linkUuid=87316595-4b3b-49e5-ab1c-dbe91d45f304&ouuid=6ef8d584-4c47-11e6-9fd0-066c3e7a8751&tlouuid=6ee94b8a-4c47-11e6-9fd0-066c3e7a8751&country=US&visitorToken=b23b148c307755e6abd269e175688f8f&boardId=3595&uid=5de53639741c98.61520258&shortlink=HStyles.lnk.to%2FAdoreYouTrailer&referrer=direct&linkChannel=5031&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFyK9yYX24E%26feature%3Dyoutu.be&artists=Harry+Styles&tags=Harrystyles%3BAdoreyou%3BTeaser&orgId=320&browser=Unknown&device=unknown&os=unknown&querystring=&city=St+Louis&activity=&channelType=Owned&channelId=d3e10184-4c47-11e6-9fd0-066c3e7a8751&organisation=Columbia+Records+US&artist=&album=&track=&label=&board=Columbia+Records+US&genre=&countryName=United+States&puuid=c5af5c00-4013-4675-945f-f41c55b4f415&sourcetype=landingpage&linkId=794335&sourcetype=landingpage&newSession=True"/></noscript>
+<div id="trackingcontainer" style="display:none;">
+</div>
+
+<script>
+	function triggerPixels(player, eventlabel, eventshowid, url, serviceType) {
+        if (checkConsent('advertiser', 'facebook')) {
+            // Send to facebook
+            loadScript('advertiser', 'facebook');
+            if(window._fbdata){
+                if(player == 'player'){
+                    window._fbdata.action = 'player';
+                    fbq('trackCustom', 'LF', window._fbdata);
+                }else{
+                    window._fbdata.action = 'service';
+                    window._fbdata.musicservice = player;
+                    window._fbdata.eventlabel = eventlabel;
+                    if (eventshowid != null) {
+                        window._fbdata.eventshowid = eventshowid;
+                    }
+                    fbq('trackCustom', 'LF', window._fbdata);
+                }
+            }
+        }
+        if (checkConsent('advertiser', 'google')) {
+            loadScript('advertiser', 'google');
+            // Send to google adwords
+            if (typeof(TriggerGooglePixel) == 'function') {
+                if(window.google_custom_params){
+                    if(player == 'player'){
+                        window.google_custom_params.action = 'player';
+                    }else{
+                        window.google_custom_params.musicservice = player;
+                        window.google_custom_params.action = 'service';
+                        if (eventshowid != null) {
+                            window.google_custom_params.eventshowid = eventshowid;
+                        }
+                    }
+                }
+                TriggerGooglePixel();
+            }
+        }
+        if (checkConsent('advertiser', 'googleglobal')) {
+            loadScript('advertiser', 'googleglobal');
+            // Send to google adwords glboal tag
+            if (typeof(triggerGlobalTags) == 'function') {
+                if(window.googleTagData){
+                    if(player == 'player'){
+                        window.googleTagData.action = 'player';
+                    }else{
+                        window.googleTagData.musicservice = player;
+                        window.googleTagData.action = 'service';
+                        if (eventshowid != null) {
+                            window.googleTagData.eventshowid = eventshowid;
+                        }
+                    }
+                }
+                triggerGlobalTags('conversion');
+            }
+        }
+        // Send to adform
+        if (checkConsent('advertiser', 'adform')) {
+            loadScript('advertiser', 'adform');
+            if (typeof(TriggerAfPixel) == 'function') {
+                var adformParams = window.afParams + '|' + player;
+                TriggerAfPixel(adformParams);
+            }
+        }
+
+        // Send to audigent
+        if (checkConsent('advertiser', 'audigent')) {
+            loadScript('advertiser', 'audigent');
+        }
+
+        // Send to The ADEX
+        if (checkConsent('advertiser', 'adex')) {
+            loadScript('advertiser', 'adex');
+            if (typeof(triggerAdex) == 'function') {
+                if (player == 'player'){
+                    triggerAdex('player', 'play');
+                } else {
+                    var adexAction = window.linkfire.appClickPlayer ? window.linkfire.appClickPlayer : 'click';
+                    triggerAdex('service', adexAction, player);
+                }
+            }
+        }
+
+        // Send to Lytics
+        if (checkConsent('advertiser', 'lytics')) {
+            loadScript('advertiser', 'lytics');
+            if (typeof(triggerLytics) == 'function') {
+                if (player == 'player'){
+                    triggerLytics('player');
+                } else {
+                                    }
+            }
+        }
+
+        //Twitter Universaltag
+        if (checkConsent('advertiser', 'twitteruniversal')) {
+            loadScript('advertiser', 'twitteruniversal');
+            if (typeof(triggerTwitterUniversal) == 'function') {
+                if(player == 'player'){
+                    triggerTwitterUniversal('player');
+                }else{
+                    triggerTwitterUniversal('service');
+                }
+            }
+        }
+
+        // Send to Snap
+        if (checkConsent('advertiser', 'snap')) {
+            loadScript('advertiser', 'snap');
+            if(typeof(triggerSnap) == 'function'){
+                if (player !== 'pageview' && player !== 'player') {
+                    triggerSnap('service');
+                } else {
+                    triggerSnap(player);
+                }
+            }
+        }
+
+        //Send DoubleClick
+        if (checkConsent('advertiser', 'doubleclick')) {
+            loadScript('advertiser', 'doubleclick');
+            if(typeof(trackDc) == 'function'){
+                trackDc(player);
+            }
+        }
+
+        //Send Adelphi
+        if (checkConsent('advertiser', 'mediarithmics')) {
+            loadScript('advertiser', 'mediarithmics');
+            if(typeof(triggerAdelphi) == 'function'){
+                if(window.adelphi_properties){
+                    if(player != 'player'){
+                        window.adelphi_properties.musicservice = player;
+                        triggerAdelphi('service');
+                    }else{
+                        triggerAdelphi('player');
+                    }
+                }
+
+            }
+        }
+
+        // Send to adello
+        if (checkConsent('advertiser', 'adello')) {
+            loadScript('advertiser', 'adello');
+            if (typeof(triggerAdelloIds) == 'function') {
+                //Set the correct metadata and specifiy the event id, 0: Pageview, 1: Service, 2: Player
+                if(player == 'player'){
+                    adelloData.action = 'player';
+                    triggerAdelloIds(adelloIds, 2);
+                }else{
+                    adelloData.action = 'service';
+                    adelloData.service = player;
+                    triggerAdelloIds(adelloIds, 1);
+                }
+            }
+        }
+        if (checkConsent('advertiser', 'twitter')) {
+            loadScript('advertiser', 'twitter');
+                                var twServiceIds = ['numuc'];
+            if(player != 'player'){
+                triggerTwitterIds(twServiceIds);
+            }
+                                    var twPlayerIds = ['numub'];
+            if(player == 'player'){
+                triggerTwitterIds(twPlayerIds);
+            }
+                            }
+
+		
+            }
+</script>
+
+<script>
+    window.linkfire.retargetingPixels['facebook'].loader = function() {
+        if (!checkScriptLoaded('advertiser','facebook')) {
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+            window.linkfire.retargetingPixels.facebook.ids.forEach(function(id) {
+                if (id === "399736106876066") {
+                    fbq('init', id , {external_id: window.linkfire.settings.visitorToken});
+                } else {
+                    fbq('init', id);
+                }
+            });
+            window._fbdata = window.linkfire.retargetingPixels.facebook.tags;
+            if(window.linkfire.player != null) {
+                window._fbdata.action = 'service';
+                window._fbdata.musicservice = window.linkfire.player;
+            }
+            if(window.linkfire.appClickPlayer != null) {
+                window._fbdata.eventlabel = window.linkfire.appClickPlayer;
+            }
+            fbq('trackCustom', 'LF', window._fbdata);
+            fbq('track', 'PageView');
+        }
+    }
+</script>
+
+    <script>
+        var google_custom_params = window.linkfire.retargetingPixels.google.tags;
+        var conv_handler = null;
+        var gaData = window.linkfire.retargetingPixels.google.gaData;
+        function TriggerGooglePixel(){
+            for(var i = 0; i < gaData.length; i++){
+                window.google_conversion_id = gaData[i].id;
+                window.google_conversion_label = gaData[i].label;
+                window.google_remarketing_only = true;
+                if (typeof(conv_handler) == 'function') {
+                    conv_handler();
+                }
+            }
+        }
+        window.linkfire.retargetingPixels['google'].loader = function() {
+            if (!checkScriptLoaded('advertiser','google')) {
+                var googlescript = document.createElement('script');
+                googlescript.src='//www.googleadservices.com/pagead/conversion_async.js';
+                googlescript.type='text/javascript';
+                googlescript.onload = function() {
+                    conv_handler = window['google_trackConversion'];
+                    TriggerGooglePixel();
+                }
+                document.getElementsByTagName('Body').item(0).appendChild(googlescript);
+            }
+        }
+    </script>
+<script>
+    var snapIds = ["af0f7b9c-4a8f-49a3-a1b8-4c9fab88e3fc"];
+
+    window.linkfire.retargetingPixels['snap'].loader = function() {
+        if (!checkScriptLoaded('advertiser','snap')) {
+            (function(win, doc, sdk_url){
+            if(win.snaptr) return;
+            var tr=win.snaptr=function(){
+                tr.handleRequest? tr.handleRequest.apply(tr, arguments):tr.queue.push(arguments);
+            };
+            tr.queue = [];
+            var s='script';
+            var new_script_section=doc.createElement(s);
+            new_script_section.async=!0;
+            new_script_section.src=sdk_url;
+            var insert_pos=doc.getElementsByTagName(s)[0];
+            insert_pos.parentNode.insertBefore(new_script_section, insert_pos);
+            })(window, document, 'https://sc-static.net/scevent.min.js');
+
+            snapIds.forEach(function(id) {
+                snaptr('init', id);
+            });
+
+            triggerSnap('pageview');
+        }
+    }
+
+    function triggerSnap(eventType) {
+        if (typeof(snaptr) === 'undefined' || typeof(snaptr) !== 'function') {
+            return;
+        }
+
+        var snapEvents = {
+          'player': 'VIEW_CONTENT',
+          'service': 'START_CHECKOUT',
+          'pageview': 'PAGE_VIEW'
+        };
+
+        snaptr('track', snapEvents[eventType]);
+    }
+</script>
+    <script>
+        window.linkfire.retargetingPixels['twitter'].loader = function() {
+            if (!checkScriptLoaded('advertiser','twitter')) {
+                var twitterscript = document.createElement('script');
+                twitterscript.src='//platform.twitter.com/oct.js';
+                twitterscript.type='text/javascript';
+                twitterscript.onload = function() {
+                    triggerTwitterIds(ids);
+                }
+                document.getElementsByTagName('Body').item(0).appendChild(twitterscript);
+            }
+        }
+        function triggerTwitterIds(ids){
+            if(window.twttr) {
+                for(var i = 0; i < ids.length; i++){
+                    twttr.conversion.trackPid(ids[i], { tw_sale_amount: 0, tw_order_quantity: 0 });
+                }
+			}
+        }
+        var ids = ['numgi'];
+    </script>
+<script>
+    window.linkfire.retargetingPixels['twitteruniversal'].loader = function() {
+        if (!checkScriptLoaded('advertiser', 'twitteruniversal')) {
+            !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+            a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+            t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+            s.parentNode.insertBefore(t,s))}(window,document,'script');
+            triggerTwitterUniversal('pageview');
+        }
+    }
+    var twitterUniversalIds = ['o2jwo'];
+    function triggerTwitterUniversal(event){
+        for(var i = 0; i < twitterUniversalIds.length; i++){
+            twq('init',twitterUniversalIds[i]);
+            twq('track',event);
+        }
+    }
+</script>
+<script>
+    window.linkfire.retargetingPixels['googleglobal'].loader = function() {
+        if (!checkScriptLoaded('advertiser', 'googleglobal')) {
+            var googlescript = document.createElement('script');
+            googlescript.src='https://www.googletagmanager.com/gtag/js?id=AW-757474210';
+            googlescript.type='text/javascript';
+            googlescript.onload = function() {
+                window.googleTagIds = [{"id":"AW-757474210","label":"\/d-MECKTpo6cBEKLHmOkC"},{"id":"AW-757474210","label":"\/rfK4CMjpo6cBEKLHmOkC"},{"id":"AW-716855806","label":null}];
+                window.googleTagData = window.linkfire.retargetingPixels.googleglobal.tags;
+                window.dataLayer = window.dataLayer || [];
+                gtag('js', new Date());
+                                gtag('config', 'AW-757474210');
+                                gtag('config', 'AW-757474210');
+                                gtag('config', 'AW-716855806');
+                                triggerGlobalTags('page_view');
+            }
+            document.getElementsByTagName('Body').item(0).appendChild(googlescript);
+
+        }
+    }
+    function gtag() {
+        dataLayer.push(arguments)
+    }
+
+    function triggerGlobalTags(event){
+        for(var i = 0; i < window.googleTagIds.length; i++){
+        var data = JSON.parse(JSON.stringify(window.googleTagData));
+        data.send_to = window.googleTagIds[i].id + (window.googleTagIds[i].label ? window.googleTagIds[i].label : '');
+        gtag('event', event, data);
+        }
+    }
+</script>
+<script>
+    loadAlreadyConsented();
+</script>
+</body>
+</html>
