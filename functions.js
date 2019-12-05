@@ -1,7 +1,9 @@
 // JavaScript Document
 
-var square_banners = ["square-ad-00.png","square-ad-01.png","square-ad-02.png"];
-var horiz_banners = ["horiz-ad-00.png","horiz-ad-01.png","horiz-ad-02.png"];
+//var square_banners = ["square-ad-00.png","square-ad-01.png","square-ad-02.png"];
+//var horiz_banners = ["horiz-ad-00.png","horiz-ad-01.png","horiz-ad-02.png"];
+var square_banners = ["ay-square-00.png"];
+var horiz_banners = ["ay-horiz-00.png"];
 
 function getRandomSquare(imgAr, path) {
     path = path || '../images/'; 
